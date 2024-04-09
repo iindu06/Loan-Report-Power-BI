@@ -1,4 +1,4 @@
-# Loan-Report-Power-BI
+# Power-BI---Loan Report
 Insights gained from the Loan Report are :
 Loan Amount Trend : Analysing changes in the Loan amount issued over time can reveal changes in borrower behavior.
 Distribution of Loan Amount : Change in range and distribution can help identify typical size of loan amount issued.
